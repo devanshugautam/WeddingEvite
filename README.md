@@ -1,41 +1,30 @@
-
-<p align="center"><a href="https://www.sarthakj.me/WeddingEvite/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://saharshisha.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 14th Feb, 2021 <br> <a href="https://saharshisha.netlify.app/">Website</a></h1>
-
-
-
 ## Wedding Invitation :ring:
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://saharshisha.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
+  <img src="./assets/img/InviteMain.png" />
 </details>
 
-With the divine grace of the almighty, inviting you and your family to Saharsh's wedding to be held on **14th February at [Mishtten Resort](https://g.page/Mishttenresort),  Jhalawar, Rajasthan from 3:00 PM** onwards.
+With the divine grace of the almighty, inviting you and your family to Devanshu's wedding to be held on **23rd January at [Milana Resort](https://g.page/Milan Resort Kota)** onwards.
 
-- [Download](https://saharshisha.netlify.app/assets/SI.pdf) the Invitation card
-
-- Find [venue](https://g.page/Mishttenresort) on Google map
-
-- Visit the [website](https://saharshisha.netlify.app) for more details
-
+- Find [venue](https://g.page/Milan Resort Kota) on Google map
 
 ```js
 
-const newCouple = 'Saharsh & Isha';
+const newCouple = 'Devanshu & Khushi';
 
 // Feb 14, 2021
-const weddingDate = new Date(2021, 02, 14);
+const weddingDate = new Date(2026, 01, 23);
 
-// Wedding venue: https://g.page/Mishttenresort
-const weddingVenue = new Location('Mishtten Resort, Rajasthan');
+// Wedding venue: https://g.page/Milan Resort Kota
+const weddingVenue = new Location('Milan Resort, Rajasthan');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://saharshisha.netlify.app/')
+        window.open('https://DevanshuKhushi.netlify.app/')
     );
 })();
 
@@ -47,10 +36,10 @@ const weddingVenue = new Location('Mishtten Resort, Rajasthan');
 ### Do not forget to leave a star! :hugs:
 
 <br><sup><i>With warm regards,<br>
-**Sarthak Jain**<i></sup><br>
+**Devanshu Gautam**<i></sup><br>
 
 ## Credits for the Project 
 
-* Vinit Shahdeo - GitHub - https://github.com/vinitshahdeo  Project - https://github.com/vinitshahdeo/Wedding-Invitation
+* Devanshu Gautam - GitHub - https://github.com/devanshugautam  Project - https://github.com/devanshugautam/Wedding-Invitation
 
-* Sanket Singh - GitHub - https://github.com/singhsanket143 LinkedIn - https://www.linkedin.com/in/singhsanket143/ 
+ 
