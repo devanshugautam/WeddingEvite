@@ -15,7 +15,7 @@ With the divine grace of the almighty, inviting you and your family to Devanshu'
 
 - [Download](https://DevanshuAyushi.netlify.app/assets/SI.pdf) the Invitation card
 
-- Find [venue](https://g.page/Milan Resort Kota) on Google map
+- Find [venue](https://g.page/MilanResortKota) on Google map
 
 - Visit the [website](https://DevanshuAyushi.netlify.app) for more details
 
