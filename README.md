@@ -1,6 +1,6 @@
 
-<p align="center"><a href="https://www.sarthakj.me/WeddingEvite/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://Devanshukhushi.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 23rd Jan, 2026 <br> <a href="https://Devanshukhushi.netlify.app/">Website</a></h1>
+<p align="center"><a href="https://devanshugautam.github.io/WeddingEvite/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://drive.google.com/file/d/1_xSOX9iaa38xtMv0rm6t5kqrxTA10NfI/view?usp=sharing">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 23rd Jan, 2026 <br> <a href="https://devanshugautam.github.io/WeddingEvite/">Website</a></h1>
 
 
 
@@ -8,16 +8,16 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://Devanshukhushi.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
+  <a href="https://devanshugautam.github.io/WeddingEvite/"><img src="./assets/img/InviteMain.png" /></a>
 </details>
 
 With the divine grace of the almighty, inviting you and your family to Devanshu's wedding to be held on **23rd January 2026 at [Milan Resort](https://g.page/MilanResortKota),  Kota, Rajasthan from 1:15 PM** onwards.
 
-- [Download](https://Devanshukhushi.netlify.app/assets/SI.pdf) the Invitation card need to change
+- [Download](https://drive.google.com/file/d/1_xSOX9iaa38xtMv0rm6t5kqrxTA10NfI/view?usp=sharing) the Invitation card
 
 - Find [venue](https://g.page/MilanResortKota) on Google map
 
-- Visit the [website](https://Devanshukhushi.netlify.app) for more details  need to change the link here too
+- Visit the [website](https://devanshugautam.github.io/WeddingEvite/) for more details
 
 
 ```js
