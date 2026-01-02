@@ -98,3 +98,23 @@ console.log(
     `%c शादी में जलूल जलूल आना होगा \n\n`,
     'color: yellow; background:tomato; font-size: 24pt; font-weight: bold',
 )
+
+// Image modal script
+  const modal = document.getElementById("imgModal");
+  const modalImg = document.getElementById("modalImg");
+  const closeBtn = document.querySelector(".close");
+
+  document.querySelectorAll(".hover-img").forEach(img => {
+    img.addEventListener("click", () => {
+      modal.style.display = "flex";
+      modalImg.src = img.src;
+    });
+  });
+
+  closeBtn.onclick = () => {
+    modal.style.display = "none";
+  };
+
+  modal.onclick = () => {
+    modal.style.display = "none";
+  };
