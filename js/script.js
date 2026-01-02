@@ -18,16 +18,36 @@
 
 })(jQuery);
 
-$(document).on('click', function(){
-    document.getElementById("my_audio").play();
-    console.log('Shaadi me zaroor aana');
+// $(document).on('click', function(){
+//     document.getElementById("my_audio").play();
+//     console.log('Shaadi me zaroor aana');
+// });
+
+// function pauseAudio() { 
+//     document.getElementById("my_audio").pause();
+//     console.log('Shaadi me pakka aana');
+//     event.stopPropagation();
+// };
+
+const audio = document.getElementById("my_audio");
+
+// Set default volume (0.0 to 1.0)
+audio.volume = 0.06; // 🔉 6% volume
+
+// Play audio on first click
+$(document).one('click', function () {
+  audio.play();
+  console.log('Shaadi me zaroor aana');
 });
 
-function pauseAudio() { 
-    document.getElementById("my_audio").pause();
-    console.log('Shaadi me pakka aana');
-    event.stopPropagation();
-};
+// Pause audio when tab/window is not active
+document.addEventListener("visibilitychange", function () {
+  if (document.hidden) {
+    audio.pause();   // ⏸ stop when tab changes
+  } else {
+    audio.play();    // ▶️ resume when tab comes back
+  }
+});
 
 // Set the date we're counting down to
 var countDownDate = new Date("2026-01-24T10:15:00+05:30").getTime();
