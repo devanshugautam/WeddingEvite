@@ -11,7 +11,7 @@
   <a href="https://DevanshuAyushi.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
 </details>
 
-With the divine grace of the almighty, inviting you and your family to Devanshu's wedding to be held on **23rd January at [Milana Resort](https://g.page/Milan Resort Kota),  Jhalawar, Rajasthan from 3:00 PM** onwards.
+With the divine grace of the almighty, inviting you and your family to Devanshu's wedding to be held on **23rd January at [Milana Resort](https://g.page/MilanResortKota),  Jhalawar, Rajasthan from 3:00 PM** onwards.
 
 - [Download](https://DevanshuAyushi.netlify.app/assets/SI.pdf) the Invitation card
 
