@@ -24,7 +24,7 @@ With the divine grace of the almighty, inviting you and your family to Devanshu'
 
 const newCouple = 'Devanshu & Ayushi';
 
-// Feb 23, 2026
+// Jan 23, 2026
 const weddingDate = new Date(2026, 01, 23);
 
 // Wedding venue: https://g.page/MilanResortKota
