@@ -22,7 +22,7 @@ With the divine grace of the almighty, inviting you and your family to Devanshu'
 
 ```js
 
-const newCouple = 'Devanshu & Ayushi';
+const newCouple = 'Devanshu & Khushi';
 
 // Jan 23, 2026
 const weddingDate = new Date(2026, 01, 23);
