@@ -11,38 +11,27 @@
   <a href="https://DevanshuAyushi.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
 </details>
 
-With the divine grace of the almighty, inviting you and your family to Devanshu's wedding to be held on **23rd January at [Milana Resort](https://g.page/MilanResortKota),  Jhalawar, Rajasthan from 3:00 PM** onwards.
+With the divine grace of the almighty, inviting you and your family to Devanshu's wedding to be held on **23rd January 2026 at [Milan Resort](https://g.page/MilanResortKota),  Kota, Rajasthan from 1:15 PM** onwards.
 
-- [Download](https://DevanshuAyushi.netlify.app/assets/SI.pdf) the Invitation card
+- [Download](https://DevanshuAyushi.netlify.app/assets/SI.pdf) the Invitation card need to change
 
 - Find [venue](https://g.page/MilanResortKota) on Google map
 
-- Visit the [website](https://DevanshuAyushi.netlify.app) for more details
+- Visit the [website](https://DevanshuAyushi.netlify.app) for more details  need to change the link here too
 
 
 ```js
 
 const newCouple = 'Devanshu & Ayushi';
 
-// Feb 14, 2021
-const weddingDate = new Date(2021, 02, 14);
+// Feb 23, 2026
+const weddingDate = new Date(2026, 01, 23);
 
-// Wedding venue: https://g.page/Milan Resort Kota
+// Wedding venue: https://g.page/MilanResortKota
 const weddingVenue = new Location('Milan Resort, Rajasthan');
-
-(function() {
-    newCouple.willTieKnot(weddingDate);
-
-    // your presence is requested
-    (new Wedding()).acceptInvitation(
-        window.open('https://DevanshuAyushi.netlify.app/')
-    );
-})();
 
 
 ```
-## Are you or your loved ones a *bride-to-be* or *groom-to-be*? 
-> Feel free to use this template to build your wedding website!
 
 ### Do not forget to leave a star! :hugs:
 
@@ -51,6 +40,8 @@ const weddingVenue = new Location('Milan Resort, Rajasthan');
 
 ## Credits for the Project 
 
-* Devanshu Gautam - GitHub - https://github.com/vinitshahdeo  Project - https://github.com/vinitshahdeo/Wedding-Invitation
+* Author - Devanshu Gautam
+* GitHub - https://github.com/devanshugautam  
+* Project - https://github.com/devanshugautam/WeddingEvite
 
  
